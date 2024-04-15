@@ -182,3 +182,4 @@ empleados.forEach(function(empleado){
     columna.appendChild(tarjeta)
     contenedor.appendChild(columna)
 })
+
